@@ -1,0 +1,29 @@
+{
+   "workflow":"atalaprism",
+   "reference":"30f0297e-230f-4706-a210-ba9a87c54877",
+   "timestamp":"2024-05-02 10:22:14",
+   "ip-address":"2.142.233.206",
+   "welcome":"skip",
+   "email":"max@iamx.id",
+   "emailpin":"uk3x9h",
+   "mobilephone":"+491721234567",
+   "firstnames":"Max",
+   "lastname":"Mustermann",
+   "birthdate":"13.06.1990",
+   "birthplace":"München",
+   "street":"Maximilianstr",
+   "housenr":"15",
+   "zip":"80539",
+   "city":"München",
+   "personfiles":"1712080476_Demo Mustermann MUC residence.pdf",
+   "onboarding":"Person",
+   "delegate":[
+      "Yes"
+   ],
+   "cardanoconnect":"stake1u9e90keg5h540cnpmruslthxxuchwnljh2htqnhryct474ghxer4p",
+   "webcam":"30f0297e-230f-4706-a210-ba9a87c54877.png",
+   "chatbot":"completed",
+   "verification":"successful",
+   "aml":"no match",
+   "kyt":"no match"
+}
